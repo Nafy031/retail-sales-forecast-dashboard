@@ -78,3 +78,15 @@ The results are presented in an **interactive Power BI dashboard** with slicers,
 1. Clone this repository:
 ```bash
 git clone https://github.com/Nafy031/retail-sales-forecast-dashboard.git
+```
+Open and run the Python notebooks in order:
+01_clean_and_aggregate.ipynb
+02_forecast_by_category.ipynb
+Open Sales_Forecast_Dashboard.pbix in Power BI Desktop.
+
+📚 Skills Demonstrated
+Data Cleaning & Transformation (pandas, datetime handling)
+Time Series Forecasting (Prophet)
+Data Visualization (matplotlib, Power BI)
+DAX Calculations (measures, time intelligence)
+Dashboard Design (KPIs, slicers, interactive filtering)
