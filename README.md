@@ -1,4 +1,4 @@
-# 🛍 Retail Sales Forecast Dashboard
+# 🛍 Sales Forecasting by Category with Python & Power BI
 
 ## 📌 Project Overview
 This project analyzes historical retail sales data and uses **time series forecasting** to predict sales for each product category over the next 6 months.  
