@@ -63,8 +63,7 @@ The results are presented in an **interactive Power BI dashboard** with slicers,
 ---
 
 ## 📷 Dashboard Preview
-
-
+![Dashboard Preview](dashboard.png)
 ---
 
 ## 📌 Insights
